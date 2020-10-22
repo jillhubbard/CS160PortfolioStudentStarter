@@ -75,12 +75,9 @@ nav li a:hover {
 }
 
 section#main{
-	width: 900px;
+	width: 940px;
 	height: 380px;
-	margin-top: 100px; 
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-bottom: 20px;
+	margin-top: 63px; 
 	background-color: #F8EBEB;
 }
 
